@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/PC_PlayerController.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/IMC_Playernput.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_Movement.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/IMC_PlayerInput.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_Jump.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_Forward.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_Strafe.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/AC_Detection.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_Interract.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/FirstPersonArms/Character/Input/Action/IA_MouseInput.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/I_Torch.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/I_Interrupteur.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Interrupteur.uasset",
+				"G:/Document/Unreal project/UE5.1/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset"
+			]
+		}
+	]
+}
